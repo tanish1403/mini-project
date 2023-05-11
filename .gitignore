@@ -1,4 +1,4 @@
 dataset/*
 out/*
-
+processed_data/*
 *.zip
