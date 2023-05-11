@@ -1,0 +1,4 @@
+1. Label : categorical or int
+2. Image inhancement : convert LAB to BGR for more dataset
+3. Lack of dataset
+4. Low validation data gives high val_accuracy overfit case
